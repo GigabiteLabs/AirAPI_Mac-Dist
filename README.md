@@ -3,7 +3,7 @@ Pre-release versions of AirAPI apps.
 
 ## Releases
 
-- 0.1.0, build 1: Pre-alpha releae of test bench & telemetry demo
+- 0.1.0, build 1: Pre-alpha releae of test bench & telemetry API project for Nreal Air.
 
 ## How to install
 
